@@ -14,12 +14,11 @@ a:hover {
 }
 
 .main {
-  height: 92vh;
+  min-height: 92vh;
   padding: 4vh 0;
   display: flex;
   flex-direction: column;
   gap: 4vh;
-  overflow: auto;
 }
 
 .form {
